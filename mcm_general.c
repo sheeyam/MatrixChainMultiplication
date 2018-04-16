@@ -1,16 +1,6 @@
 /************************************************************************
 * Programmer: Sheeyam Shellvacumar
 *
-* Course: CSCI 5432.2
-*
-* Date: March 24, 2018
-*
-* Assignment: Assignment #3 - Question 04 (Program 01)
-*
-* Environment: OnlineGDP
-*
-* Files Included: mcm_general.c
-*
 * Purpose: Get Matrices and it's dimensions from the user and then perfrom matrix chain multiplication 
 * using the general approcah to find the number of operations and compute time taken.
 *
