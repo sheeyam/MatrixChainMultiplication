@@ -1,16 +1,6 @@
 /************************************************************************
 * Programmer: Sheeyam Shellvacumar
 *
-* Course: CSCI 5432.2
-*
-* Date: March 24, 2018
-*
-* Assignment: Assignment #3 - Question 04 (Program 02)
-*
-* Environment: OnlineGDP
-*
-* Files Included: mcm_dynamic.c
-*
 * Purpose: Get Matrices and it's dimensions from the user and then perfrom matrix chain multiplication 
 * using dynamic programmaing approach to find the optimal sequence of matrix order.
 *
@@ -140,11 +130,3 @@ void main()
     getch();
 }
 // End of the Program
-
-
-
-
-
-
-
-
